@@ -8,6 +8,13 @@ It supports **three user roles** with different functionalities: **Visitors, Sta
 ## 👥 Team Roles
 - **Visitors Module** → Registration, Login, Profile, Reservations. *(Developed by [tshidijasmine-hue])*
 - **Staff Module** → Manage animals, view reservations. *(Developed by [YDawood03])*
+  This is my personal fork of the Blue River Zoo project.
+  
+  **Original repository:**  
+  https://github.com/tsholofelospicegirl17-hub/BlueRiverZoo
+
+  **My contribution:** I developed the Staff module and contributed to system logic, debugging, and testing.
+  
 - **Admin Module** → Manage staff, generate reports, oversee full system. *(Developed by [])*
 
 ---
