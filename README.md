@@ -13,30 +13,31 @@ It supports **three user roles** with different functionalities: **Visitors, Sta
 ---
 
 ## 📂 Project Structure
+
 Although the project is contained in a single Visual Studio solution,  
 the files are **renamed to clearly show** which part belongs to which user role.
 
 - **Visitors**
-  - `VisitorLogin.aspx / VisitorsLogin.aspx.cs`
+  - `VisitorLogin.aspx / VisitorLogin.aspx.cs`
   - `VisitorSignUp.aspx / VisitorSignUp.aspx.cs`
   - `VisitorProfile.aspx / VisitorProfile.aspx.cs`
-  - `VisitorsReservations.aspx / VisitorReservations.aspx.cs`
+  - `VisitorReservations.aspx / VisitorReservations.aspx.cs`
   - `VisitorMyReservations.aspx / VisitorMyReservations.aspx.cs`
   - `VisitorResetPassword.aspx / VisitorResetPassword.aspx.cs`
-  
+
 - **Staff**
-  - StaffAddAnimal.aspx / StaffAddAnimal.aspx.cs
-  - StaffAddFeeding.aspx / StaffAddFeeding.aspx.cs
-  - StaffDeleteAnimal.aspx / StaffDeleteAnimal.aspx.cs
-  - StaffForgotPassword.aspx / StaffForgotPassword.aspx.cs
-  - StaffLoginPage.aspx / StaffLoginPage.aspx.cs
-  - StaffMaintainFeeding.aspx / StaffMaintainFeeding.aspx.cs
-  - StaffRemoveFeeding.aspx / StaffRemoveFeeding.aspx.cs
-  - StaffUpdateFeeding.aspx / StaffUpdateFeeding.aspx.cs
-  - StaffUpdateAnimal.aspx / StaffUpdateAnimal.aspx.cs
-  
+  - `StaffAddAnimal.aspx / StaffAddAnimal.aspx.cs`
+  - `StaffAddFeeding.aspx / StaffAddFeeding.aspx.cs`
+  - `StaffDeleteAnimal.aspx / StaffDeleteAnimal.aspx.cs`
+  - `StaffForgotPassword.aspx / StaffForgotPassword.aspx.cs`
+  - `StaffLoginPage.aspx / StaffLoginPage.aspx.cs`
+  - `StaffMaintainFeeding.aspx / StaffMaintainFeeding.aspx.cs`
+  - `StaffRemoveFeeding.aspx / StaffRemoveFeeding.aspx.cs`
+  - `StaffUpdateFeeding.aspx / StaffUpdateFeeding.aspx.cs`
+  - `StaffUpdateAnimal.aspx / StaffUpdateAnimal.aspx.cs`
+
 - **Admin**
-  - `AdminAddStaff.aspx / AdmimAddStaff.aspx.cs`
+  - `AdminAddStaff.aspx / AdminAddStaff.aspx.cs`
   - `AdminAlerts.aspx / AdminAlerts.aspx.cs`
   - `AdminAnimals.aspx / AdminAnimals.aspx.cs`
   - `AdminBreedingPrograms.aspx / AdminBreedingPrograms.aspx.cs`
@@ -46,8 +47,6 @@ the files are **renamed to clearly show** which part belongs to which user role.
   - `AdminReports.aspx / AdminReports.aspx.cs`
   - `AdminStaff.aspx / AdminStaff.aspx.cs`
   - `AdminUpdateStaff.aspx / AdminUpdateStaff.aspx.cs`
-
----
 
 ## 🗄 Database
 - SQL Server LocalDB used (`Animals.mdf`).  
