@@ -25,9 +25,15 @@ the files are **renamed to clearly show** which part belongs to which user role.
   - `VisitorResetPassword.aspx / VisitorResetPassword.aspx.cs`
   
 - **Staff**
-  - 
-  - 
-  - 
+  - StaffAddAnimal.aspx / StaffAddAnimal.aspx.cs
+  - StaffAddFeeding.aspx / StaffAddFeeding.aspx.cs
+  - StaffDeleteAnimal.aspx / StaffDeleteAnimal.aspx.cs
+  - StaffForgotPassword.aspx / StaffForgotPassword.aspx.cs
+  - StaffLoginPage.aspx / StaffLoginPage.aspx.cs
+  - StaffMaintainFeeding.aspx / StaffMaintainFeeding.aspx.cs
+  - StaffRemoveFeeding.aspx / StaffRemoveFeeding.aspx.cs
+  - StaffUpdateFeeding.aspx / StaffUpdateFeeding.aspx.cs
+  - StaffUpdateAnimal.aspx / StaffUpdateAnimal.aspx.cs
   
 - **Admin**
   - `AdminAddStaff.aspx / AdmimAddStaff.aspx.cs`
