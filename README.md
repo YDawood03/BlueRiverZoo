@@ -7,7 +7,7 @@ It supports **three user roles** with different functionalities: **Visitors, Sta
 
 ## 👥 Team Roles
 - **Visitors Module** → Registration, Login, Profile, Reservations. *(Developed by [tshidijasmine-hue])*
-- **Staff Module** → Manage animals, view reservations. *(Developed by [])*
+- **Staff Module** → Manage animals, view reservations. *(Developed by [YDawood03])*
 - **Admin Module** → Manage staff, generate reports, oversee full system. *(Developed by [])*
 
 ---
